@@ -1,0 +1,5 @@
+Name	ahmed
+Balance  	 10743668.0
+Cnic-number	36710-1274631-1
+Creditcard number	341111111111111
+Mailing-address	  rana@gmail.com

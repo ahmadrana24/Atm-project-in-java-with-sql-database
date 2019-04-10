@@ -1,0 +1,6 @@
+Name	asher
+Amount-deducted 	7000
+New-Balance  	 73000.0
+Cnic-number	87629-0982652-1
+Creditcard number	4917610000000000
+Mailing-address	  asher@gmail.com
